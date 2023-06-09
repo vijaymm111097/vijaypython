@@ -59,3 +59,7 @@ pattern(5)
 - initialise another **for** loop with range **0 to i+1** for coloumns
 - print symbol hash **#** with **new line**
 - call the function **pattern**
+
+**note:** to get same pattern in reverse order then 
+- modify **line 3** as range as **0 to n*
+- after **line 4** write **n-=1**
