@@ -6,7 +6,7 @@ I have done one academic project based on arduino ie **RIVER WATER SURFACE GARBA
 with team support our project has been **selected by the VTU** this is our greatest achievement in our academics apart from that i participated in social responsibilities such as **blood donation camp and grow green**
 
 # Tell me about python?
--Python is a high-level, interpreted programming language known for its simplicity and readability. It was created by Guido van Rossum and was first released in 1991.
+- Python is a high-level, interpreted programming language known for its simplicity and readability. It was created by Guido van Rossum and was first released in 1991.
 -python has so many featutres and characterstics
 -it is easy to read and write
 -The important feature of python is the it is dynamically typed ie there is no need to declare the type of varible it automatically took the type during run time
