@@ -15,3 +15,18 @@ print(a)
 - iterate each element in **a** list usung **for**
 - print the elements 
 - print the list **a**
+**output**
+```
+enter number of elements:5
+enter the element:2
+enter the element:3
+enter the element:5
+enter the element:6
+enter the element:4
+2
+3
+5
+6
+4
+[2, 3, 5, 6, 4]
+```
