@@ -15,6 +15,8 @@ print(a)
 - iterate each element in **a** list usung **for**
 - print the elements 
 - print the list **a**
+
+
 **output**
 ```
 enter number of elements:5
