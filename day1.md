@@ -56,7 +56,8 @@ j. Easy-to-read :
 - Integration and Interoperability                               	- Relatively High Memory Consumption
 - Support for Multiple Programming Paradigms                     	- Weak in Mobile Computing and Game Development
 - Good for Data Analysis and Scientific Computing                	- Difficulty in Implementing Cryptography
-- Strong Community Support and Documentation ```                                                 	
+- Strong Community Support and Documentation 
+```
 
 # INterpreted vs compiler programming language
           Interpreted Programming                                                     	Compiled Programming
