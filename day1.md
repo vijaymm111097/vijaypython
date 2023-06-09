@@ -1,5 +1,4 @@
-
-                                                        # INTERVIEW QYESTIONS
+ # INTERVIEW QYESTIONS
 # Introduce yourself
 My self vijay i am from gulbarga.
 I have completed my BE graduation in PDA college of engineering by 2022.
