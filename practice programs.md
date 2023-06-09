@@ -54,7 +54,7 @@ def pattern(n):
 pattern(5)
 ```
 # print the pattern
-``
+```
 1 
 
 2 2 
