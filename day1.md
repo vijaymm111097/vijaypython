@@ -49,11 +49,21 @@ j. Easy-to-read :
         
 # Advantages and Disadvantages of Python
 ```
-       Advantages                                                                                  	**Disadvantages**
-- Simple and Readable Syntax	                                                                  - Slower Execution Speed
-- Large Standard Library	                                                                      - Not Ideal for Mobile Development
-- Cross-Platform Compatibility                                                                 - Runtime Errors instead of Compile-time Errors
-- Integration and Interoperability                                                            	- Relatively High Memory Consumption
-- Support for Multiple Programming Paradigms                                                  	- Weak in Mobile Computing and Game Development
-- Good for Data Analysis and Scientific Computing                                             	- Difficulty in Implementing Cryptography```
+       Advantages                                                                  	**Disadvantages**
+- Simple and Readable Syntax	                                     - Slower Execution Speed
+- Large Standard Library	                                         - Not Ideal for Mobile Development
+- Cross-Platform Compatibility                                    - Runtime Errors instead of Compile-time Errors
+- Integration and Interoperability                               	- Relatively High Memory Consumption
+- Support for Multiple Programming Paradigms                     	- Weak in Mobile Computing and Game Development
+- Good for Data Analysis and Scientific Computing                	- Difficulty in Implementing Cryptography```
 - Strong Community Support and Documentation                                                  	
+
+# INterpreted vs compiler programming language
+          Interpreted Programming                                                     	Compiled Programming
+- Code is executed directly without prior compilation.	            - Code is compiled into machine-readable binary code before execution.
+- Interpreter reads and executes the code line by line.            -	Compiled code is executed directly by the computer's processor.
+- no separate compilation step is required.	                        - Code must be compiled before it can be executed.
+- Generally slower in terms of execution speed.                     -	Typically faster in terms of execution speed.
+- Examples: Python, JavaScript, Ruby.                               -	Examples: C, C++, Java.
+
+#.py vs .pyc files
