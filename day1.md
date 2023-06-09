@@ -49,14 +49,14 @@ j. Easy-to-read :
         
 # Advantages and Disadvantages of Python
 ```
-       Advantages                                                                  	**Disadvantages**
+       Advantages                                                                  	Disadvantages
 - Simple and Readable Syntax	                                     - Slower Execution Speed
 - Large Standard Library	                                         - Not Ideal for Mobile Development
 - Cross-Platform Compatibility                                    - Runtime Errors instead of Compile-time Errors
 - Integration and Interoperability                               	- Relatively High Memory Consumption
 - Support for Multiple Programming Paradigms                     	- Weak in Mobile Computing and Game Development
-- Good for Data Analysis and Scientific Computing                	- Difficulty in Implementing Cryptography```
-- Strong Community Support and Documentation                                                  	
+- Good for Data Analysis and Scientific Computing                	- Difficulty in Implementing Cryptography
+- Strong Community Support and Documentation ```                                                 	
 
 # INterpreted vs compiler programming language
           Interpreted Programming                                                     	Compiled Programming
