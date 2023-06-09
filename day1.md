@@ -80,7 +80,7 @@ j. Easy-to-read :
 # How compilation will happen internally in python
 Since python is interpreted laguage it executes code line by line.firstly the source code is coverted into intermwdiate code called byte code and then it is send to to the python virtual machine(PVM) to specific laguage which computer understands
 
-# why python is dynamicalyy typed programming laguage
+# why python is dynamically typed programming language
 - Developers can assign values of different types to variables without explicitly declaring their types, which allows for more concise and readable code.
 -  Python enable rapid prototyping and development. Without the need for explicit type declarations or compilation steps, developers can quickly write and test code
 -  will not get type error till runtime
