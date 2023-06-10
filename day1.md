@@ -88,11 +88,18 @@ Since python is interpreted laguage it executes code line by line.firstly the so
 # python is platform independent
 - Python code can be written once and run on different platforms and operating systems without the need for extensive modifications.
 
+# source code vs byte code
+```
+    Aspect	                                         Source Code	                                                     Bytecode
+Human-Readable                   	Written in a programming language (e.g., Python)                   	Not directly human-readable
+
+Compilation	                      Interpreted and executed directly by the interpreter               	Compiled into bytecode before execution
+Execution Speed	                  Slower due to interpretation at runtime	                            Faster due to precompiled bytecode
+Portability	                      Requires the source code to be available	                            Bytecode is platform-independent
+Distribution	                     Source code can be distributed and shared                          	Bytecode can be distributed as compiled Python files (.pyc)
+Modifications                     	Source code can be easily modified and updated	                     Bytecode cannot be directly modified
+```
 
 
-
-
-
-Regenerate response
 
 
