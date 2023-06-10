@@ -99,7 +99,13 @@ Portability	                      Requires the source code to be available	     
 Distribution	                     Source code can be distributed and shared                          	Bytecode can be distributed as compiled Python files (.pyc)
 Modifications                     	Source code can be easily modified and updated	                     Bytecode cannot be directly modified
 ```
-
-
-
-
+# high level vs low lwvel programming language
+```
+     Aspect	                                  High-Level Programming Language	                                     Low-Level Programming Language
+Abstraction level	                   Higher level of abstraction                                       	Lower level of abstraction
+Readability	                          Easier to read and understand                                     	More complex and harder to read
+Ease of use	                         More user-friendly and intuitive                                   	More complex and less intuitive
+Portability	                         Highly portable across different platforms	                        Less portable, often specific to a particular hardware
+Performance	                        Generally slower due to added abstractions and layers              	Generally faster due to direct hardware access
+Memory management	                    Automatic memory management (garbage collection)	                  Manual memory management
+```
