@@ -27,3 +27,7 @@ ex: x=10
 - a=10   =. it is single value assignment varible **a** is refering to the memory location of 10
 - a=b=10  =. it is single value multiple variable variable **a and b** refering to the same memory location of 10 i.e. **a and b** have same address
 - a,b=10,20   =. it is multiple value multiple variable i.e. **a and be** refreing different memory location for different values
+
+# constant
+- it isa type of a varible whose value can't be changed it iswritten in uppercase
+- ex: GRAVITYT=9.8
