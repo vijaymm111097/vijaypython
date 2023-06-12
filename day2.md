@@ -13,10 +13,10 @@ ex: x=10
                --string
 **data structures**--lists,tuples,set,dictionary
 
-# refernce count
-- ex: x=19    =. the refernce count of 10 is 1
+# reference count
+- ex: x=19    =. the reference count of 10 is 1
 - ex: x=10
-      y=10     =. refernce count of 10 is 2
+      y=10     =. reference count of 10 is 2
  - when reference count of a value becomes **0** then it is garbage collected
  - e: x=10
       x=20 
