@@ -1,6 +1,7 @@
 # variables
 - variables are nothing but a container which holds the value 
 - variable stores the value and address to the memory location
+- variable is a name which is used to refer memory location of thatvalue
 
 ex: x=10
 - python reads from RHS to LHS
