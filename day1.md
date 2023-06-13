@@ -1,11 +1,11 @@
  # INTERVIEW QUESTIONS
-# Introduce yourself
+# 1.Introduce yourself
 My self vijay i am from gulbarga.
 I have completed my BE graduation in PDA college of engineering by 2022.
 I have done one academic project based on arduino ie **RIVER WATER SURFACE GARBAGE CLEANING ROVER**  with a motive of reducing the extent of death rate of aquatic animals and water pollution.
 with team support our project has been **selected by the VTU** this is our greatest achievement in our academics apart from that i participated in social responsibilities such as **blood donation camp and grow green**
 
-# Tell me about python?
+# 2.Tell me about python?
 - Python is a high-level, interpreted programming language known for its simplicity and readability. It was created by Guido van Rossum and was first released in 1991.
 - python has so many featutres and characterstics
 - it is easy to read and write
@@ -13,12 +13,12 @@ with team support our project has been **selected by the VTU** this is our great
 - It is interpreted language ie it executes the code by line by line ie it coverts python source code in to intermediate code called bytecode and then to native language of specific computert to run it
 - It supoorts object oriented programming by creating object and classes for to build some applications
 
-# Why Python is so popular now a days?
+# 3.Why Python is so popular now a days?
 - due to its readability, shorter codes and ease of writing
 - python has so many inbuilt function which are frequently using now a days
 - we can run the python source cod ein different operating systems hece it is platform independent
 
-#  Features of Python
+# 4.Features of Python
 a. Interpreted**:                
  - There are no separate compilation and execution steps like C and C++, Java
  - Directly run the program from the source code.
@@ -47,7 +47,7 @@ i. Easy-to-learn:
 j. Easy-to-read :
  - Python code is more clearly defined and visible to the eyes.
         
-# Advantages and Disadvantages of Python
+# 5.Advantages and Disadvantages of Python
 ```
        Advantages                                                                  	Disadvantages
 - Simple and Readable Syntax	                                     - Slower Execution Speed
@@ -59,7 +59,7 @@ j. Easy-to-read :
 - Strong Community Support and Documentation 
 ```
 
-# INterpreted vs compiler programming language
+# 6.INterpreted vs compiler programming language
  ```
            Interpreted Programming                                                     	Compiled Programming
 - Code is executed directly without prior compilation.	            - Code is compiled into machine-readable binary code before execution.
@@ -68,7 +68,7 @@ j. Easy-to-read :
 - Generally slower in terms of execution speed.                     -	Typically faster in terms of execution speed.
 - Examples: Python, JavaScript, Ruby.                               -	Examples: C, C++, Java.
 ```
-# .py vs .pyc files
+# 7..py vs .pyc files
 ```
                      .py Files	                                                       .pyc Files
 - These are the source code files written in Python.	           - These are the compiled bytecode files generated from .py files.
@@ -77,18 +77,18 @@ j. Easy-to-read :
 - Slower to execute since they require interpretation.	          -Faster to execute since they are already compiled into bytecode.
 - Require the presence of the Python interpreter to run.	        - Can be executed on any system with the compatible Python interpreter version.
 ```
-# How compilation will happen internally in python
+# 8.How compilation will happen internally in python
 Since python is interpreted laguage it executes code line by line.firstly the source code is coverted into intermwdiate code called byte code and then it is send to to the python virtual machine(PVM) to specific laguage which computer understands
 
-# why python is dynamically typed programming language
+# 9. why python is dynamically typed programming language
 - Developers can assign values of different types to variables without explicitly declaring their types, which allows for more concise and readable code.
 -  Python enable rapid prototyping and development. Without the need for explicit type declarations or compilation steps, developers can quickly write and test code
 -  will not get type error till runtime
 
-# python is platform independent
+# 10. python is platform independent
 - Python code can be written once and run on different platforms and operating systems without the need for extensive modifications.
 
-# source code vs byte code
+# 11. source code vs byte code
 ```
     Aspect	                                         Source Code	                                                     Bytecode
 Human-Readable                   	Written in a programming language (e.g., Python)                   	Not directly human-readable
@@ -99,7 +99,7 @@ Portability	                      Requires the source code to be available	     
 Distribution	                     Source code can be distributed and shared                          	Bytecode can be distributed as compiled Python files (.pyc)
 Modifications                     	Source code can be easily modified and updated	                     Bytecode cannot be directly modified
 ```
-# high level vs low lwvel programming language
+# 12. high level vs low lwvel programming language
 ```
      Aspect	                                  High-Level Programming Language	                                     Low-Level Programming Language
 Abstraction level	                   Higher level of abstraction                                       	Lower level of abstraction
@@ -109,5 +109,5 @@ Portability	                         Highly portable across different platforms	
 Performance	                        Generally slower due to added abstractions and layers              	Generally faster due to direct hardware access
 Memory management	                    Automatic memory management (garbage collection)	                  Manual memory management
 ```
-# garbage collection in python
+# 13. garbage collection in python
 Python deletes unwanted objects (built-in types or class instances) automatically to free the memory space. The process by which Python periodically frees and reclaims blocks of memory that no longer are in use is called Garbage Collection.
