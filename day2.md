@@ -14,12 +14,18 @@ ex: x=10
                --string
 **data structures**--lists,tuples,set,dictionary
 
+# memory management in python
+- python contains private heap memory ehere all the data will be stored
+- This memory cant access by the user 
+- Python memory manager allocates the memory allocation for the data 
+- python also hav ean feature of garbage collection when the value is not assigned to any variable ie whise reference count of value is zero
+
 # reference count
 - ex: x=19    =. the reference count of 10 is 1
 - ex: x=10
       y=10     =. reference count of 10 is 2
  - when reference count of a value becomes **0** then it is garbage collected
- - e: x=10
+ - ex: x=10
       x=20 
         here a single variabke cant refer a two values so the previous value of that varible will be garbage collected
 
